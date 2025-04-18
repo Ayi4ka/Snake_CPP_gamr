@@ -1,2 +1,2 @@
-# Snake_CPP_gamr
+# Snake_CPP_game
  
