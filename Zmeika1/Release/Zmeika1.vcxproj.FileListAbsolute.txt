@@ -1,0 +1,8 @@
+C:\Users\kotaf\source\repos\Zmeika1\Release\Zmeika1.exe
+C:\Users\kotaf\source\repos\Zmeika1\Release\Zmeika1.vcxprojAssemblyReference.cache
+C:\Users\kotaf\source\repos\Zmeika1\Release\Zmeika1.MyForm.resources
+C:\Users\kotaf\source\repos\Zmeika1\Release\Zmeika1.vcxproj.GenerateResource.cache
+C:\Uchebka\2курс\2 семестр\Программирование\11\Zmeika1\Release\Zmeika1.vcxprojAssemblyReference.cache
+C:\Uchebka\2курс\2 семестр\Программирование\11\Zmeika1\Release\Zmeika1.MyForm.resources
+C:\Uchebka\2курс\2 семестр\Программирование\11\Zmeika1\Release\Zmeika1.vcxproj.GenerateResource.cache
+C:\Uchebka\2курс\2 семестр\Программирование\11\Zmeika1\Release\Zmeika1.exe

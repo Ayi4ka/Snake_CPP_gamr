@@ -1,0 +1,3 @@
+C:\Users\kotaf\source\repos\Zmeika1\Debug\Zmeika1.vcxprojAssemblyReference.cache
+C:\Users\kotaf\source\repos\Zmeika1\Debug\Zmeika1.exe
+C:\Users\kotaf\source\repos\Zmeika1\Debug\Zmeika1.pdb

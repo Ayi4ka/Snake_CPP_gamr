@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  MyForm.cpp
+  Source.cpp
+C:\Users\kotaf\source\repos\Zmeika1\Source.cpp(82,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  Source1.cpp
+C:\Users\kotaf\source\repos\Zmeika1\Source1.cpp(17,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  Source2.cpp
+C:\Users\kotaf\source\repos\Zmeika1\Source2.cpp(58,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  Source3.cpp
+C:\Users\kotaf\source\repos\Zmeika1\Source3.cpp(53,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  Zmeika1.cpp
+C:\Users\kotaf\source\repos\Zmeika1\Zmeika1.cpp(15,1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "pch.h"" в источник.
+  Создание кода...
