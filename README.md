@@ -81,6 +81,8 @@ Movement  → Controls game loop, timer, collision detection
 3. Run the game (F5).
 4. Choose difficulty level and start playing!
 
+---
+
 1. Откройте проект в **Visual Studio** с поддержкой C++/CLI.
 2. Создайте решение.
 3. Запустите игру (F5).
