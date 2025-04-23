@@ -94,5 +94,6 @@ Movement  → Controls game loop, timer, collision detection
 
 ## 📷 Example / Пример
 
+https://github.com/user-attachments/assets/683368a6-258b-468b-8958-ee602431f628
 
 
