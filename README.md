@@ -92,8 +92,7 @@ Movement  → Controls game loop, timer, collision detection
 ---
 🤝 Author | Автор Made with ❤️ by Ayi4ka in 2021 / Сделано с любовью — Айка в 2021 году
 
-## 📷 Screenshots / Скриншоты
+## 📷 Example / Пример
 
-![screenshot](./docs/screenshot_game.png)
 
----
+
